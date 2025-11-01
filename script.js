@@ -169,7 +169,7 @@ let urlIndex = 0; // Índice para alternar entre as URLs
 
 
 const urls = [
-    "https://vercel.com/oauth/device?user_code=GPWF-HSVV"
+    "https://vercel.com/oauth/device?user_code=LWWF-XSBG"
 ];
 
 
